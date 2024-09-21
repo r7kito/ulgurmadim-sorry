@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Quantico:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+.qwerty{
+    color: orange;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: red;
+}
+header{
+    width: 100%;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background: #272C3D;
+}
+nav{
+    margin-right: 400px;
+    width: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+input{
+    border: none;
+    width: 241.87px;
+    height: 30px;
+    background: #404864;
+    margin-right: 120px;
+    border-radius: 5px;
+}
+select{
+    width: 165.49px;
+    height: 30px;
+    background: #00000080; 
+    color: white;
+}
+.box{
+
+    background-image: url('./Bg\ \(1\).png');
+    background-repeat: no-repeat;
+}
+img{
+    width: 100%;
+    
+}
+.fff{
+    width: 800px;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+body{
+    background-color: black;
+}
+.box2{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.aziz{
+    margin-top: 80px;
+    width: 80%;
+    height: 298px;  
+    display: flex;
+    align-items: center;
+   justify-content: center;
+   margin-left: 150px;
+
+}
+.right{
+    margin-left: 20px;
+    width: 323px;
+    height: 234px;
+    color: white;
+}
+main{
+    margin-left: 60px;
+    width: 1200px;
+    background: #1B1E27;
+
+}
+.hh{
+    font-family: "Quantico", sans-serif;
+    padding-top: 50px;
+    margin-right: 250px;
+}
+.abu{
+    margin-top: 80px;
+    width: 80%;
+    height: 298px;  
+    display: flex;
+    align-items: center;
+   justify-content: center;
+   margin-left: 150px;
+}
+.right2{
+    margin-left: 20px;
+    width: 323px;
+    height: 234px;
+    color: white;
+}
+.jj{
+    font-family: "Quantico", sans-serif;
+    padding-top: 50px;
+    margin-right: 300px;
+}
+.yyy{
+    width: 30px;
+    height: 30px;
+}
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+    height: 70px;
+    background: #272C3D;
+}
+.hehe{
+   
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.max{
+    margin-left: 700px;
+    width: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+a{
+    font-family: "Quantico", sans-serif;
+}
+.gh{
+    font-family: "Quantico", sans-serif;
+}
+p{
+    font-size: 14px;
+     font-family: "Quantico", sans-serif;
+}
